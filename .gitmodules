@@ -1,0 +1,3 @@
+[submodule "open-in-browser"]
+	path = open-in-browser
+	url = https://github.com/gsidhu/open-in-browser
